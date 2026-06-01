@@ -1,6 +1,5 @@
 <div align="center">
-
-# Deepanshu Kori
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:1E3A8A,100:8B5CF6&text=Hi,%20I'm%20Deepanshu%20Kori&fontColor=ffffff&fontSize=40&fontAlignY=40&animation=fadeIn"/>
 
 ### Full-Stack Developer
 
@@ -67,36 +66,51 @@ Building scalable web applications, secure backend systems, REST APIs, cloud-nat
 
 ---
 
-# 🛠️ Technologies & Tools
-
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" />
 </p>
+
+<p align="center">
+React • Next.js • TypeScript • JavaScript • Tailwind CSS
+</p>
+
+---
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" />
 </p>
+
+<p align="center">
+Python • Django • FastAPI • Node.js
+</p>
+
+---
 
 ### Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,github,vercel"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,github,vercel" />
 </p>
+
+<p align="center">
+AWS • Docker • GitHub • Vercel
+</p>
+
+---
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,redis" />
 </p>
 
-### Blockchain
-
-![SUI](https://img.shields.io/badge/SUI-4DA2FF?style=for-the-badge)
-![zkLogin](https://img.shields.io/badge/zkLogin-8B5CF6?style=for-the-badge)
+<p align="center">
+PostgreSQL • Redis
+</p>
 
 ---
 
@@ -131,30 +145,6 @@ Cross-platform crypto & fiat wallet platform with SUI blockchain and zkLogin int
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deepanshukori&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshukori&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshukori&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deepanshukori&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">
@@ -186,3 +176,4 @@ Cross-platform crypto & fiat wallet platform with SUI blockchain and zkLogin int
 ⭐ If you like my work, consider following my journey.
 
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:8B5CF6,50:1E3A8A,100:0F172A"/>
